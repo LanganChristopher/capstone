@@ -27,13 +27,14 @@ The data set I will be using is from <a target=_blank href="https://www.kaggle.c
 The data set consists of 87,000 images in the training set, with 3,000 in each class and the testing set with 28 images with one of each class except <u>Delete</u>.
 
 # Model Performance
-
-Train Accuracy: 92.73%
-Train Loss: 20.72%
-Train Validation Accuracy: 97.84%
-Train Validation Loss: 7.62%
-Test Accuracy: 98.05%
-Test Loss: 7.28%
+<ul>
+    <li>Train Accuracy: 92.73%</li>
+    <li>Train Loss: 20.72%</li>
+    <li>Train Validation Accuracy: 97.84%</li>
+    <li>Train Validation Loss: 7.62%</li>
+    <li>Test Accuracy: 98.05%</li>
+    <li>Test Loss: 7.28%</li>
+</ul>
 
 # Conclusion/Recommendations
 

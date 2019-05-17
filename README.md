@@ -28,7 +28,12 @@ The data set consists of 87,000 images in the training set, with 3,000 in each c
 
 # Model Performance
 
-
+Train Accuracy: 92.73%
+Train Loss: 20.72%
+Train Validation Accuracy: 97.84%
+Train Validation Loss: 7.62%
+Test Accuracy: 98.05%
+Test Loss: 7.28%
 
 # Conclusion/Recommendations
 
